@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "build": "tsc",
     "dev": "nodemon app.js"
   },
   "author": "Felix Monegro",
